@@ -1,0 +1,10 @@
+{
+  "name": "WordRunner",
+  "version": "1.0.0",
+  "description": "A word runner to reader faster and efficiently",
+  "main": "index.js",
+  "repository": "https://github.com/wilofice/word-runner.git",
+  "author": "Genereux Alahassa",
+  "license": "GNU",
+  "private": false
+}
